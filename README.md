@@ -2,7 +2,7 @@ monsnode：　[ブラウザ拡張版](https://okcysk.github.io/monsnodeMultiPlay
 
 spankbang：　[ブラウザ拡張版](https://okcysk.github.io/spankbangMultiPlayerAddOn/)　webサイト版(検討中)
 
-![Monsnode Multi Player](./overview-multi-player.png)
+![Monsnode Multi Player](./images/overview-multi-player.png)
 
 ## Contact / 連絡先
 
