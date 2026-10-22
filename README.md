@@ -1,4 +1,4 @@
-# Monsnode Quad Player — Web prototype
+# Monsnode Multi Player — Web prototype
 
 GitHub Pages serves this static interface. It starts with the Monsnode top-page list, loads further pages as you scroll, and supports 1, 4, 9, or 16 selected videos. A Cloudflare Worker fetches Monsnode search results, parses each `.listn` entry and its `redirect.php?v=...` link, and resolves selected redirects to `video.twimg.com` MP4 URLs. Sequential playback advances a slot to the next available list item when its video ends or its Next button is pressed; Back restores that slot's previous video.
 
