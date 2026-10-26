@@ -4,7 +4,7 @@ monsnode：　[ブラウザ拡張版](https://okcysk.github.io/monsnodeMultiPlay
 
 youtube：　ブラウザ拡張版(検討中)　[webサイト版](https://okcysk.github.io/youtubeMultiPlayer/)
 
-![Monsnode Multi Player](./images/overview-multi-player.png)
+![Monsnode Multi Player](./overview-multi-player.png)
 
 ## Contact / 連絡先
 
